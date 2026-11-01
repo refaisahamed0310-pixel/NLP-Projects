@@ -1,0 +1,16 @@
+# Core data and scientific computing
+numpy
+pandas
+
+# Natural Language Processing
+nltk
+textblob
+
+# Machine Learning
+scikit-learn
+scipy
+
+# Notebook environment
+jupyter
+notebook
+ipykernel
