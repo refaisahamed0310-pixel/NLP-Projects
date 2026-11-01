@@ -17,7 +17,7 @@ NLP-Projects/
 ├── NLTK-Fundamentals/
 │   └── nltk_fundamentals.ipynb
 ├── Twitter-Comment-Sentiment/
-│   └── twitter_comment_sentiment_nltk.ipynb
+│   └── twitter_sentiment_analysis_ml.ipynb
 ├── Twitter-Post-Text-Mining/
 │   └── twitter_post_text_mining_ml.ipynb
 ├── .gitignore
