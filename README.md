@@ -20,9 +20,9 @@ NLP-Projects/
 │   └── twitter_comment_sentiment_nltk.ipynb
 ├── Twitter-Post-Text-Mining/
 │   └── twitter_post_text_mining_ml.ipynb
+├── .gitignore
 ├── README.md
-├── requirements.txt
-└── .gitignore
+└── requirements.txt
 ```
 
 ## Tech Stack
